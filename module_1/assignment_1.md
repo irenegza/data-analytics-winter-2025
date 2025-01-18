@@ -33,7 +33,7 @@ You will ask ChatGPT the following question:
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?
-  - ***I am a very OCD person, so my fixations would tend to look a bit nonsense, but it mostly about perceptions. The instructions provided felt right, but the fact that it mentioned: locate the dropdown next to the field name, is not correct, it's underneath the name, made me rethink the instructions.***
+  - ***Overall the experience satisfied the purpose. The instructions completed the task of identifying what needed to be done but still left room for uncertainty. I am a very OCD person, so my fixations would tend to look a bit nonsense, but it is mostly about perceptions. The instructions provided felt right, but the fact that it mentioned: locate the dropdown next to the field name, is not correct, it's underneath the name, made me rethink the instruction because it felt as if it wasn't up to date, or if the browser I was wasn't the one that Chat GPT was using as reference (and so on)***
   - Suggest how the explanation could be improved, if necessary.
   - ***My suggestion would be to include a visual of some sort either an image or a video next to each step.***
 
@@ -75,8 +75,9 @@ Write a short response below explaining when it would be appropriate to use Chat
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
+- How this exercise influenced your approach to learning new data skills in the future.
 
+  ***I am excited to continue using and curating my learning resources with AI. I found it more effective to use Chat GPT for this particular assignment because I noticed that some of the examples on the videos were based on an old version of Google Sheets. I think that the fact that I could ask  a question that had a straightforward answer and it being explained very simply helped a lot with my time management. This exercise helped me to pay attention to details that might seem obvious, but actually impact the quality of the responses that I receive.***
 ---
 
 ## **Submission Requirements:**  
